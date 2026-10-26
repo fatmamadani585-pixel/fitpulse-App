@@ -1,13 +1,13 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#0f172a",
   "dir": "ltr",
   "display": "standalone",
   "name": "FitPulse",
   "orientation": "any",
   "scope": "/",
   "short_name": "FitPulse",
-  "start_url": "/",
-  "theme_color": "#ffffff",
+  "start_url": "./index.html",
+  "theme_color": "#10b981",
   "id": "com.fitpulse.app",
   "description": "FitPulse Fitness Timer App"
 }
